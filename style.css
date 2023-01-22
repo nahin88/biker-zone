@@ -12,3 +12,16 @@ body{
 .icon{
     width: 20px;
 }
+.banner{
+    background-image: url("./images/header-bike.png");
+    height: 100vh;
+}
+
+.version-2{
+    background-color: #264653;
+}
+
+.version-3{
+    background-color: black;
+    background-blend-mode: multiply;
+}
